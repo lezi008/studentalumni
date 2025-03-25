@@ -1,0 +1,11 @@
+﻿user1,password123
+admin,adminpass
+minji,kim12345
+01069,Raven James P. Paitan,savagegamingyt473@gmail.com,San Isidro Rodriguez Rizal,Escort 2024-2025|Pro Player,Esport|Player,San Isidro NHS|Valley High Academy,C:\Users\user123\source\repos\StudentAlumni\StudentAlumni\STUDENT IMAGES\RAVEN JAMES.jpg
+00249,Clarck Jason M. Pareñas,clarckparenas123@gmail.com,Summit View Rodriguez Rizal,N/A,N/A,Gen. Licerio Geronimo Memorial NHS|Valley High Academy,
+56789,Kim Minji,minyiyah23456@gmail.com,Chuncheon Gangwon Province South Korea,NJZ,DANCER,Sinsa Middle School| Hanlim Multi Art School,
+00928,Jan Mark V. Sabado,sabadojanmark99@gmail.com,San Isidro Rodriguez Rizal,1st Semester With Honor,N/A,ERES-BHNHS-VHA(TVL-ICT),C:\Users\user123\source\repos\StudentAlumni\StudentAlumni\STUDENT IMAGES\J. SABADO.jpg
+01348,Jamaica Mae A. Tan,tanjamaica56@gmail.com,Manggahan Rodriguez rizal,•Sabayang pagbigkas(Grade12)-1st place|•UN-Mass demo(Grade 12) champion|•Cheer dance(Grade12)-1st place|•G11 with honor|•G12 first semester with honor,N\A,SJES-SJNHS-VHA (TVL-ICT),
+01522,Rhian Shane Tomas,rhiantomas0@gmail.com,Rosario Rodriguez Rizal,N\A,N\A,ERES-BHNHS-VHA (TVL-ICT),
+01311,Recsie Mark M.Teñoso,tenosorecsiemark@gmail.com,Kasiglahan Village San Jose Rodriguez Rizal,Broze medalist 400m freestyle (Swimming),N/A,Kasiglahan Village Elementary School|Unit 1-Kasiglahan Village National High School|Valley High Academy Inc.(TVL-ICT),C:\Users\user123\source\repos\StudentAlumni\StudentAlumni\STUDENT IMAGES\R. TENOSO.jpg
+,,,,,,,
